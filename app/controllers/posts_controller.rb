@@ -19,4 +19,3 @@ class PostsController < ApplicationController
   end
 end
 
-bbbbbbbbbbbbbbbbbbbbbbbbb
